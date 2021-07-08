@@ -1,7 +1,4 @@
-//
-// This is only a SKELETON file for the 'Protein Translation' exercise. It's been provided as a
-// convenience to get you started writing code faster.
-//
+// WIP, only the protein values have been added. Translation feature will be added soon
 export const proteins = [
     ['Methionine', ['AUG']],
     ['Phenylalanine', ['UUU', 'UUC']],
